@@ -402,17 +402,6 @@
         ListBox1.Items.Add(nro)
     End Sub
 
-    Private Sub Button37_Click(sender As Object, e As EventArgs) Handles Button37.Click
-        nro = 37
-        btnFondo.Enabled = True
-        btnFondo.Visible = True
-        btnFondo.Text = nro
-        btnFondo.BringToFront()
-        Button37.BackColor = Color.Red
-        Button37.Enabled = False
-        ListBox1.Items.Add(nro)
-    End Sub
-
     Private Sub Button38_Click(sender As Object, e As EventArgs) Handles Button38.Click
         nro = 38
         btnFondo.Enabled = True
@@ -443,6 +432,265 @@
         btnFondo.BringToFront()
         Button40.BackColor = Color.Red
         Button40.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button41_Click(sender As Object, e As EventArgs) Handles Button41.Click
+        nro = 41
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button41.BackColor = Color.Red
+        Button41.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button42_Click(sender As Object, e As EventArgs) Handles Button42.Click
+        nro = 42
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button42.BackColor = Color.Red
+        Button42.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button43_Click(sender As Object, e As EventArgs) Handles Button43.Click
+        nro = 43
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button43.BackColor = Color.Red
+        Button43.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button44_Click(sender As Object, e As EventArgs) Handles Button44.Click
+        nro = 44
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button44.BackColor = Color.Red
+        Button44.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button45_Click(sender As Object, e As EventArgs) Handles Button45.Click
+        nro = 45
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button45.BackColor = Color.Red
+        Button45.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button46_Click(sender As Object, e As EventArgs) Handles Button46.Click
+        nro = 46
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button46.BackColor = Color.Red
+        Button46.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button47_Click(sender As Object, e As EventArgs) Handles Button47.Click
+        nro = 47
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button47.BackColor = Color.Red
+        Button47.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button48_Click(sender As Object, e As EventArgs) Handles Button48.Click
+        nro = 48
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button48.BackColor = Color.Red
+        Button48.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button49_Click(sender As Object, e As EventArgs) Handles Button49.Click
+        nro = 49
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button49.BackColor = Color.Red
+        Button49.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button50_Click(sender As Object, e As EventArgs) Handles Button50.Click
+        nro = 50
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button50.BackColor = Color.Red
+        Button50.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button51_Click(sender As Object, e As EventArgs) Handles Button51.Click
+        nro = 51
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button51.BackColor = Color.Red
+        Button51.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button52_Click(sender As Object, e As EventArgs) Handles Button52.Click
+        nro = 52
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button52.BackColor = Color.Red
+        Button52.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button53_Click(sender As Object, e As EventArgs) Handles Button53.Click
+        nro = 53
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button53.BackColor = Color.Red
+        Button53.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button54_Click(sender As Object, e As EventArgs) Handles Button54.Click
+        nro = 54
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button54.BackColor = Color.Red
+        Button54.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button55_Click(sender As Object, e As EventArgs) Handles Button55.Click
+        nro = 55
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button55.BackColor = Color.Red
+        Button55.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button56_Click(sender As Object, e As EventArgs) Handles Button56.Click
+        nro = 56
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button56.BackColor = Color.Red
+        Button56.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button57_Click(sender As Object, e As EventArgs) Handles Button57.Click
+        nro = 57
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button57.BackColor = Color.Red
+        Button57.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button58_Click(sender As Object, e As EventArgs) Handles Button58.Click
+        nro = 58
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button58.BackColor = Color.Red
+        Button58.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button59_Click(sender As Object, e As EventArgs) Handles Button59.Click
+        nro = 59
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button59.BackColor = Color.Red
+        Button59.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+
+    Private Sub Button60_Click(sender As Object, e As EventArgs) Handles Button60.Click
+        nro = 60
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button60.BackColor = Color.Red
+        Button60.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button61_Click(sender As Object, e As EventArgs) Handles Button61.Click
+        nro = 61
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button61.BackColor = Color.Red
+        Button61.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button62_Click(sender As Object, e As EventArgs) Handles Button62.Click
+        nro = 62
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button62.BackColor = Color.Red
+        Button62.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button63_Click(sender As Object, e As EventArgs) Handles Button63.Click
+        nro = 63
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button63.BackColor = Color.Red
+        Button63.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button64_Click(sender As Object, e As EventArgs) Handles Button64.Click
+        nro = 64
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button64.BackColor = Color.Red
+        Button64.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
+    Private Sub Button65_Click(sender As Object, e As EventArgs) Handles Button65.Click
+        nro = 65
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button65.BackColor = Color.Red
+        Button65.Enabled = False
         ListBox1.Items.Add(nro)
     End Sub
 
