@@ -694,17 +694,14 @@
         ListBox1.Items.Add(nro)
     End Sub
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+    Private Sub Button66_Click(sender As Object, e As EventArgs) Handles Button66.Click
+        nro = 66
+        btnFondo.Enabled = True
+        btnFondo.Visible = True
+        btnFondo.Text = nro
+        btnFondo.BringToFront()
+        Button66.BackColor = Color.Red
+        Button66.Enabled = False
+        ListBox1.Items.Add(nro)
+    End Sub
 End Class
